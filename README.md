@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sudharsan-g
-- 💗 Love Python
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Power BI,Python
 
