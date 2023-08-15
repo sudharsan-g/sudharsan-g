@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudharsan-g
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Power BI,Python
+- 🌱 I’m currently learning Power BI
 
 
 <!---
